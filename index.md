@@ -13,7 +13,8 @@ What I have learned
 ![My avata on Github](https://avatars.githubusercontent.com/u/98778057?v=4)
 
 7. add example code
-`print("Hello, world!")`
+```print("Hello, world!")```
+
 
 
 
