@@ -8,9 +8,12 @@ What I have learned
 - **bold**
 - _italic_
 5. > quoting text
+6. adding image
+  
+![My avata on Github](https://avatars.githubusercontent.com/u/98778057?v=4)
 
 
-These are what I have learned so far, more will come later as I practice coding. 
+
 
 
 
