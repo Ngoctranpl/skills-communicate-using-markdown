@@ -14,6 +14,11 @@ What I have learned
 
 7. add example code
 ```print("Hello, world!")```
+8. add a task list:
+   - [ ] Learn Markdown
+   - [ ] Create repository
+   - [ ] Create Price-tracker project
+
 
 
 
